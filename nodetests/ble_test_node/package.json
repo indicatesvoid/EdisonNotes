@@ -1,0 +1,17 @@
+{
+  "name": "ble_test_node",
+  "version": "0.0.0",
+  "description": "set an RGB led over BLE using Node and Bleno",
+  "main": "main.js",
+  "dependencies": {
+    "bleno": "^0.1.10",
+    "galileo-io": "^0.8.1",
+    "noble": "^0.3.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

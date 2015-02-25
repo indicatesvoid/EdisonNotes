@@ -1,0 +1,18 @@
+{
+  "name": "hello_cylon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cylon": "^0.22.0",
+    "cylon-api-http": "^0.1.0",
+    "cylon-gpio": "^0.22.0",
+    "cylon-i2c": "^0.19.0",
+    "cylon-intel-iot": "^0.5.0"
+  }
+}

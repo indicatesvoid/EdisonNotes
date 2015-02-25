@@ -1,0 +1,10 @@
+PODS:
+  - RSColorPicker (0.8.2)
+
+DEPENDENCIES:
+  - RSColorPicker
+
+SPEC CHECKSUMS:
+  RSColorPicker: ee8ca927ce7ced44a6d38ac96b295e8422c3016d
+
+COCOAPODS: 0.34.4
